@@ -16,5 +16,5 @@
 # limitations under the License.
 #
 
-PRODUCT_MAKEFILES := \
-     $(LOCAL_DIR)/omni_a50dd.mk
+LOCAL_PATH := device/samsung/a50dd
+
